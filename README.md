@@ -34,3 +34,5 @@ I have found the most common properties in the Seattle Market are Houses and Apa
 About the price, there isn't much difference between the price of Houses and Apartments, in general, the unit price for houses is lower to the unit prices of apartments, but there ís only a small difference.
 
 Unfortunately, the price prediction model failed to explain the price variations, much more work will need to be done to improve the model.I encourage you to take the challenge and improve the model of this work.
+
+You can read about this result in my personal [blog](https://medium.com/@nadonayramos/understanding-the-airbnb-market-in-seattle-united-states-fe5556f81b82)
